@@ -40,4 +40,4 @@ These filters enable dynamic updates to the visualizations, allowing users to fo
 
 ## Acknowledgments
 
-Thank you for checking out the European Sales Dashboard! Your feedback is appreciated, and I look forward to sharing insights through data visualization.
+Thank you for checking out my project! Your feedback will be much appreciated.
