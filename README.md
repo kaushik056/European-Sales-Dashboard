@@ -2,10 +2,10 @@
 
 Welcome to the European Sales Dashboard project! This Tableau dashboard provides a comprehensive analysis of sales data across Europe, helping users gain insights and make data-driven decisions.
 
-# Preview
+## Preview
 ![Screenshot (8)](https://github.com/user-attachments/assets/c1a21c11-07cd-40ea-830c-6f3691795297)
 
-# KPIs
+## KPIs
 
 The dashboard is designed to visualize critical metrics, including:
 
