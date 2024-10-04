@@ -4,7 +4,7 @@ Welcome to the European Sales Dashboard project! This Tableau dashboard provides
 
 ## Preview
 ![Screenshot (8)](https://github.com/user-attachments/assets/c1a21c11-07cd-40ea-830c-6f3691795297)
-
+If you would like to view the interactive dashboard, click [here](https://public.tableau.com/views/EuropeanSalesDashboard_17123705477940/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 ## KPIs
 
 The dashboard is designed to visualize critical metrics, including:
