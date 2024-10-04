@@ -29,7 +29,7 @@ The dashboard includes three main categories of analysis:
    - Offers a detailed view of sales performance throughout the year.
    - Facilitates tracking of seasonal trends and monthly performance variations.
 
-### Interactive Filters
+## Interactive Filters
 
 To enhance user experience, the dashboard includes interactive filters that allow users to filter data by **specific months** , **specific country** , **specific product**.
 These filters enable dynamic updates to the visualizations, allowing users to focus on the data that matters most to them.
